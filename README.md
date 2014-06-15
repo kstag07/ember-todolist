@@ -1,0 +1,1 @@
+A MVC Todolist application built with ember.js using the tutorial on the ember wesbsite.  It can create and destroy items on the list, it  can mark them as complete or incomplete and has the ability to switch between different views of showing all, complete or incomplete.
